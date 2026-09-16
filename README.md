@@ -1,268 +1,196 @@
-# Hi, I'm Aditya Singh 👋
+# 👋 Hi, I'm Aditya Singh
 
-### Aspiring Software Developer | DSA Enthusiast | C++ & Java Programmer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;DSA+%7C+C%2B%2B+%7C+Java+%7C+SQL;170%2B+LeetCode+Problems+Solved;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-I'm a Computer Science student focused on building strong **Data Structures & Algorithms** fundamentals and improving my problem-solving skills through consistent practice on **LeetCode**.
-
-I'm currently working on strengthening my skills in **C++, Java, SQL, DSA, and Web Development**, while building practical projects to apply what I learn.
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science student
-* 💻 Currently learning and practicing **Data Structures & Algorithms**
-* 🧩 Solving problems regularly on **LeetCode**
-* 🔥 Interested in **Software Development and Problem Solving**
-* 🌱 Currently improving my **Java, C++, SQL and DSA** skills
-* 🛠️ Building projects using **HTML, CSS, JavaScript, Node.js and MongoDB**
-* 🤖 Interested in applying **AI and Computer Vision** to real-world applications
-* 📚 Preparing for software-development opportunities and technical interviews
+<p align="center">
+  <a href="https://leetcode.com/u/Adikr57/">
+    <img src="https://img.shields.io/badge/LeetCode-Adikr57-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-44%2B-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Java-44%2B-red?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/SQL-82%2B-blue?style=for-the-badge&logo=mysql"/>
+</p>
 
 ---
 
-## 💻 Technical Skills
+## ⚡ Developer Dashboard
 
-### Programming Languages
+<table>
+<tr>
+<td width="50%">
 
-* **C++**
-* **Java**
-* **SQL**
-
-### Data Structures & Algorithms
-
-* Arrays
-* Strings
-* Two Pointers
-* Binary Search
-* Math
-* Divide and Conquer
-* Dynamic Programming
-* Monotonic Stack
-* Searching & Sorting
-* Basic Recursion
-* Problem Solving
-
-### Database
-
-* MySQL
-* SQL Queries
-* Joins
-* Aggregation
-* Subqueries
-* Database Problem Solving
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* MongoDB
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* LeetCode
-* Visual Studio Code
-
----
-
-## 🧠 LeetCode Journey
-
-I use LeetCode to continuously improve my problem-solving and DSA skills.
-
-### 📊 Current Statistics
-
-| Category  | Problems Solved |
-| --------- | --------------: |
-| 🗄️ MySQL |              82 |
-| ⚡ C++     |              44 |
-| ☕ Java    |              44 |
-| **Total** |         **170** |
-
-### 📌 Strong Practice Areas
-
-* Database — **80+ problems**
-* Arrays — **50+ problems**
-* Math — **20+ problems**
-* Binary Search — **19+ problems**
-* Strings — **17+ problems**
-* Two Pointers — **14+ problems**
-* Divide and Conquer
-* Dynamic Programming
-* Monotonic Stack
-
-🔗 **LeetCode:**
-https://leetcode.com/u/Adikr57/
-
----
-
-## 🛠️ Featured Project
-
-### 🤖 AI-Powered Inventory Management System
-
-An AI-powered inventory management system designed to automate stock tracking using **computer vision and barcode scanning**.
-
-### Key Features
-
-* 📷 Product scanning through camera
-* 🔍 Product detection using image processing
-* 📦 Automated inventory tracking
-* 🔄 Real-time inventory updates
-* 🧾 Barcode scanning
-* 🌐 Web-based interface
-* 🗄️ Database-backed inventory management
-
-### Technology Stack
+### 🧠 Problem Solving
 
 ```text
-Frontend     → HTML, CSS, JavaScript
-Backend      → Node.js
-Database     → MongoDB
-AI / Vision  → Computer Vision & Image Processing
+LeetCode        170+ Problems
+MySQL           82+
+C++             44+
+Java            44+
 ```
 
-The goal is to reduce manual data entry and improve inventory-management accuracy.
+**Focus**
 
----
+`Arrays` `Strings` `Binary Search`
+`Two Pointers` `Math` `DP` `Stack`
+`Divide & Conquer` `SQL`
 
-## 📈 What I'm Currently Working On
+</td>
+
+<td width="50%">
+
+### 🛠️ Tech Stack
 
 ```text
-DSA
- ├── Arrays
- ├── Strings
- ├── Binary Search
- ├── Two Pointers
- ├── Recursion
- ├── Sorting
- ├── Linked Lists
- ├── Stack & Queue
- ├── Trees
- ├── Graphs
- └── Dynamic Programming
-
-Programming
- ├── C++
- ├── Java
- └── SQL
+Languages
+C++ • Java • SQL
 
 Development
- ├── HTML
- ├── CSS
- ├── JavaScript
- ├── Node.js
- └── MongoDB
+HTML • CSS • JavaScript
+Node.js • MongoDB
+
+Interests
+DSA • AI • Computer Vision
+Software Development
 ```
 
----
-
-## 🎯 Current Goals
-
-* [ ] Strengthen DSA fundamentals
-* [ ] Solve more LeetCode problems consistently
-* [ ] Improve C++ and Java problem-solving
-* [ ] Master SQL and database concepts
-* [ ] Learn advanced DSA topics
-* [ ] Build more real-world projects
-* [ ] Improve coding quality and optimization
-* [ ] Prepare for technical interviews
-* [ ] Contribute to open-source projects
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 My Learning Approach
+## 🚀 Currently Building
 
-I believe in learning concepts by **understanding the logic first and then applying them to problems**.
+### 🤖 AI-Powered Inventory Management
 
-My current approach:
+> **Computer Vision × Barcode Scanning × Real-Time Inventory**
 
 ```text
-Learn Concept
-     ↓
-Understand the Logic
-     ↓
-Implement in Code
-     ↓
-Solve Easy Problems
-     ↓
-Solve Medium Problems
-     ↓
-Analyze Time & Space Complexity
-     ↓
-Optimize the Solution
-     ↓
-Move to the Next Topic
+Camera
+  ↓
+Product Detection
+  ↓
+Barcode / Image Processing
+  ↓
+Inventory Update
+  ↓
+MongoDB
+  ↓
+Web Dashboard
 ```
 
----
-
-## 📊 Problem-Solving Focus
-
-Some of the problems and concepts I've been practicing include:
-
-* Missing Number
-* Two Sum
-* Move Zeroes
-* Merge Sorted Array
-* Best Time to Buy and Sell Stock
-* Binary Search
-* Maximum Wealth
-* Contains Duplicate
-* FizzBuzz
-* Roman to Integer
-* Palindrome Problems
-* Add Digits
-* Power of Three
-* Power of Four
-* Product Sales Analysis
-* Consecutive Numbers
-* Database SQL Problems
+**Stack:** `JavaScript` `Node.js` `MongoDB` `Computer Vision`
 
 ---
 
-## 🔧 Languages & Technologies
+## 🧩 My Coding Journey
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,mysql,html,css,js,nodejs,mongodb,git,github,vscode" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adikr04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adikr04&hide_border=true&theme=transparent" height="170"/>
+</p>
+
+---
+
+## 🧠 Problem → Pattern → Solution
 
 ```text
-C++        █████████████████
-Java       ███████████████
-SQL        ███████████████
-JavaScript ███████████
-HTML       ███████████
-CSS        ███████████
-Node.js    █████████
-MongoDB    █████████
+                    ┌──────────────┐
+                    │   PROBLEM    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   PATTERN    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   APPROACH   │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │  OPTIMIZE    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    SOLVE ✓   │
+                    └──────────────┘
 ```
 
-> These bars represent my current learning focus, not formal proficiency ratings.
+---
+
+## 📈 2026 Focus
+
+| Area           | Focus                    |
+| -------------- | ------------------------ |
+| 🧠 DSA         | Patterns + Optimization  |
+| 💻 C++         | Problem Solving          |
+| ☕ Java         | DSA + Development        |
+| 🗄️ SQL        | Queries + Databases      |
+| 🌐 Development | Full-Stack Fundamentals  |
+| 🤖 AI          | Computer Vision Projects |
 
 ---
 
-## 🌱 Learning Philosophy
+## 🔥 LeetCode
 
-> **Consistency over perfection.**
+<p align="center">
+  <a href="https://leetcode.com/u/Adikr57/">
+    <img src="https://leetcard.jacoblin.cool/Adikr57?theme=dark&font=Baloo&ext=heatmap" width="600"/>
+  </a>
+</p>
 
-Every problem I solve is an opportunity to understand a new pattern, improve my implementation, and become a better problem solver.
-
-I'm documenting my journey through GitHub so that my progress, projects, and solutions can be tracked over time.
-
----
-
-## 🤝 Connect With Me
-
-* 💻 **LeetCode:** https://leetcode.com/u/Adikr57/
-* 🐙 **GitHub:** Add your GitHub profile link here
-* 💼 **LinkedIn:** Add your LinkedIn profile link here
+<p align="center">
+  <b>170+ Problems Solved</b> •
+  <b>Consistent DSA Practice</b> •
+  <b>Learning by Solving</b>
+</p>
 
 ---
 
-## ⭐ Thanks for Visiting!
+## 🎯 Current Mission
 
-Thanks for checking out my profile!
+```text
+        LEARN
+          ↓
+       PRACTICE
+          ↓
+        BUILD
+          ↓
+       OPTIMIZE
+          ↓
+        REPEAT
+```
 
-I'm continuously learning, solving problems, and building projects.
-Feel free to explore my repositories and follow along with my development journey.
+> Building strong fundamentals today to become a better software engineer tomorrow.
 
-**Keep Learning. Keep Building. Keep Solving. 🚀**
+---
+
+<p align="center">
+
+### 🌐 Let's Connect
+
+<a href="https://leetcode.com/u/Adikr57/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Adikr04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adikr04&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>Code. Solve. Build. Repeat. 🚀</i>
+</p>
