@@ -1,196 +1,205 @@
-# 👋 Hi, I'm Aditya Singh
+# `> Aditya Singh`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;DSA+%7C+C%2B%2B+%7C+Java+%7C+SQL;170%2B+LeetCode+Problems+Solved;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer+in+Progress;DSA+%7C+C%2B%2B+%7C+Java+%7C+SQL;170%2B+LeetCode+Problems;Learn+%E2%86%92+Solve+%E2%86%92+Build+%E2%86%92+Repeat" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Adikr57/">
-    <img src="https://img.shields.io/badge/LeetCode-Adikr57-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/C%2B%2B-44%2B-blue?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Java-44%2B-red?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/SQL-82%2B-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16&section=header"/>
 </p>
 
 ---
 
-## ⚡ Developer Dashboard
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Problem Solving
+## `01 // DEVELOPER STATUS`
 
 ```text
-LeetCode        170+ Problems
-MySQL           82+
-C++             44+
-Java            44+
-```
-
-**Focus**
-
-`Arrays` `Strings` `Binary Search`
-`Two Pointers` `Math` `DP` `Stack`
-`Divide & Conquer` `SQL`
-
-</td>
-
-<td width="50%">
-
-### 🛠️ Tech Stack
-
-```text
-Languages
-C++ • Java • SQL
-
-Development
-HTML • CSS • JavaScript
-Node.js • MongoDB
-
-Interests
-DSA • AI • Computer Vision
-Software Development
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Currently Building
-
-### 🤖 AI-Powered Inventory Management
-
-> **Computer Vision × Barcode Scanning × Real-Time Inventory**
-
-```text
-Camera
-  ↓
-Product Detection
-  ↓
-Barcode / Image Processing
-  ↓
-Inventory Update
-  ↓
-MongoDB
-  ↓
-Web Dashboard
-```
-
-**Stack:** `JavaScript` `Node.js` `MongoDB` `Computer Vision`
-
----
-
-## 🧩 My Coding Journey
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,mysql,html,css,js,nodejs,mongodb,git,github,vscode" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adikr04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adikr04&hide_border=true&theme=transparent" height="170"/>
-</p>
-
----
-
-## 🧠 Problem → Pattern → Solution
-
-```text
-                    ┌──────────────┐
-                    │   PROBLEM    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   PATTERN    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   APPROACH   │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │  OPTIMIZE    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    SOLVE ✓   │
-                    └──────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ADITYA SINGH                                               │
+│   ───────────────────────────────────────────────────────     │
+│                                                              │
+│   ROLE       →  Aspiring Software Developer                  │
+│   FOCUS      →  DSA • Development • Problem Solving         │
+│   STATUS     →  ███████████████████░░  LEARNING             │
+│                                                              │
+│   LeetCode   →  170+                                         │
+│   C++        →  44+                                           │
+│   Java       →  44+                                           │
+│   MySQL      →  82+                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📈 2026 Focus
-
-| Area           | Focus                    |
-| -------------- | ------------------------ |
-| 🧠 DSA         | Patterns + Optimization  |
-| 💻 C++         | Problem Solving          |
-| ☕ Java         | DSA + Development        |
-| 🗄️ SQL        | Queries + Databases      |
-| 🌐 Development | Full-Stack Fundamentals  |
-| 🤖 AI          | Computer Vision Projects |
-
----
-
-## 🔥 LeetCode
+## `02 // TECH STACK`
 
 <p align="center">
-  <a href="https://leetcode.com/u/Adikr57/">
-    <img src="https://leetcard.jacoblin.cool/Adikr57?theme=dark&font=Baloo&ext=heatmap" width="600"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,mysql,html,css,js,nodejs,mongodb,git,github,vscode&perline=11" />
+
 </p>
 
 <p align="center">
-  <b>170+ Problems Solved</b> •
-  <b>Consistent DSA Practice</b> •
-  <b>Learning by Solving</b>
+<code>C++</code> • <code>Java</code> • <code>SQL</code> •
+<code>JavaScript</code> • <code>Node.js</code> • <code>MongoDB</code>
 </p>
 
 ---
 
-## 🎯 Current Mission
+## `03 // PROBLEM SOLVING`
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Adikr57?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="650"/>
+
+</p>
+
+### Current DSA Patterns
 
 ```text
-        LEARN
-          ↓
-       PRACTICE
-          ↓
-        BUILD
-          ↓
-       OPTIMIZE
-          ↓
-        REPEAT
+ARRAYS              ████████████████████
+STRINGS             ████████████████
+BINARY SEARCH       ███████████████
+TWO POINTERS        █████████████
+MATH                █████████████
+DIVIDE & CONQUER    ██████████
+DYNAMIC PROGRAMMING █████████
+STACK / QUEUE       █████████
 ```
-
-> Building strong fundamentals today to become a better software engineer tomorrow.
 
 ---
 
+## `04 // CURRENT BUILD`
+
 <p align="center">
 
-### 🌐 Let's Connect
+### 🤖 AI INVENTORY MANAGEMENT SYSTEM
+
+`COMPUTER VISION` → `PRODUCT DETECTION` → `INVENTORY`
+
+</p>
+
+```text
+             ┌───────────┐
+             │   CAMERA  │
+             └─────┬─────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ PRODUCT DETECTION│
+          └────────┬────────┘
+                   │
+             ┌─────▼─────┐
+             │  BARCODE  │
+             │  SCANNER  │
+             └─────┬─────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ REAL-TIME STOCK │
+          └────────┬────────┘
+                   │
+                   ▼
+             ┌──────────┐
+             │ MONGODB  │
+             └──────────┘
+```
+
+`HTML` `CSS` `JavaScript` `Node.js` `MongoDB` `Computer Vision`
+
+---
+
+## `05 // LEARNING LOOP`
+
+<p align="center">
+
+```text
+       ┌────────┐
+       │  LEARN │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ SOLVE  │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ DEBUG  │
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │OPTIMIZE│
+       └───┬────┘
+           │
+           ▼
+       ┌────────┐
+       │ BUILD  │
+       └───┬────┘
+           │
+           └──────────────► REPEAT ↻
+```
+
+---
+
+## `06 // GITHUB ACTIVITY`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adikr04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adikr04&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr04&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## `07 // 2026.exe`
+
+```text
+[████████████████████████████████████████]  RUNNING
+
+> Strengthen DSA
+> Master C++ & Java
+> Improve SQL
+> Build real-world projects
+> Explore AI + Computer Vision
+> Prepare for Software Development roles
+
+STATUS: █ ONLINE
+```
+
+---
+
+## `08 // CONNECT`
+
+<p align="center">
 
 <a href="https://leetcode.com/u/Adikr57/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Adikr04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adikr04&style=flat-square&color=blue" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Adikr04&style=for-the-badge&color=blueviolet"/>
+
 </p>
 
+---
+
 <p align="center">
-  <i>Code. Solve. Build. Repeat. 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16&section=footer"/>
+
+### `while(alive) { learn(); build(); solve(); }`
+
 </p>
